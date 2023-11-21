@@ -14,8 +14,7 @@
         "postcss.config.js": true,
         "prettier.config.js": true,
         "README.md": true,
-        "next-env.d.ts": true,
-        ".eslintrc.json": true
+        "next-env.d.ts": true
     },
     "hide-files.files": [
         ".vscode",
@@ -26,7 +25,6 @@
         "postcss.config.js",
         "prettier.config.js",
         "README.md",
-        "next-env.d.ts",
-        ".eslintrc.json"
+        "next-env.d.ts"
     ]
 }
