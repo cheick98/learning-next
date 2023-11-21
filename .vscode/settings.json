@@ -1,0 +1,32 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".vscode": true,
+        "node_modules": true,
+        ".nvmrc": true,
+        "package-lock.json": true,
+        "tsconfig.json": true,
+        "postcss.config.js": true,
+        "prettier.config.js": true,
+        "README.md": true,
+        "next-env.d.ts": true,
+        ".eslintrc.json": true
+    },
+    "hide-files.files": [
+        ".vscode",
+        "node_modules",
+        ".nvmrc",
+        "package-lock.json",
+        "tsconfig.json",
+        "postcss.config.js",
+        "prettier.config.js",
+        "README.md",
+        "next-env.d.ts",
+        ".eslintrc.json"
+    ]
+}
